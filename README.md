@@ -26,6 +26,6 @@ _(This image is uploaded in this repository as `CraveCart_UI.png`)_
 - ✏️ **Edit Design (Design File)**  
   👉 [Click to Edit](https://www.figma.com/design/61xJonCMMc01wEmLVHbALf/Food-App?node-id=0-1&t=kpXCe7AMsOmUD5GC-1)
 
----
+
 
 
