@@ -13,7 +13,7 @@ This project demonstrates user-friendly design principles with clear navigation,
 
 ## 📷 UI Preview
 
-![CraveCart UI Screenshot](./CraveCart_UI.png)  
+![CraveCart_UI_Screen](./CraveCart_UI.png)  
 _(This image is uploaded in this repository as `CraveCart_UI.png`)_
 
 ---
